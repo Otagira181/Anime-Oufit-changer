@@ -1,0 +1,5 @@
+{
+  "name": "Anime Outfit Changer by Otagira",
+  "description": "An application to change the outfit of an anime character using AI, based on a character image, an outfit image, and user-selected poses and camera angles.",
+  "requestFramePermissions": []
+}
